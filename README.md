@@ -1,5 +1,20 @@
 ## Hi there 👋
+# Hi there, I'm Darshita! 
 
+### 🚀 About Me
+- 💡 Exploring AI & ML, solving real-world problems.
+- 🎯 Currently working on interesting projects in AI/ML.
+- 📚 Always learning & experimenting with new technologies.
+
+### 🛠️ Tech Stack
+- Languages: Python, C++, JavaScript
+- Frameworks: TensorFlow, PyTorch, React
+- Tools: Git, Docker, Kubernetes
+
+### 📈 GitHub Stats
+![Darshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshita27-cmd&show_icons=true&theme=dark)
+
+![Snake animation](https://github.com/darshita27-cmd/darshita27-cmd/blob/output/github-contribution-grid-snake.svg)
 <!--
 **darshita27-cmd/darshita27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
