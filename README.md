@@ -11,8 +11,6 @@
 - Frameworks: TensorFlow, PyTorch, React
 - Tools: Git, Docker, Kubernetes
 
-### 📈 GitHub Stats
-![Darshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=darshita27-cmd&show_icons=true&theme=dark)
 
 ![Snake animation](https://github.com/darshita27-cmd/darshita27-cmd/blob/output/github-contribution-grid-snake.svg)
 <!--
