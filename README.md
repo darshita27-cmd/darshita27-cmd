@@ -1,29 +1,38 @@
-## Hi there 👋
-# Hi there, I'm Darshita! 
+# Darshita Singh
 
-### 🚀 About Me
-- 💡 Exploring AI & ML, solving real-world problems.
-- 🎯 Currently working on interesting projects in AI/ML.
-- 📚 Always learning & experimenting with new technologies.
+## About Me
 
-### 🛠️ Tech Stack
-- Languages: Python, C++, JavaScript
-- Frameworks: TensorFlow, PyTorch, React
-- Tools: Git, Docker, Kubernetes
+I'm a 3rd-year AIML student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring Reinforcement Learning, Neural Networks, and AI-driven solutions.
+
+## What I'm Working On
+
+- Building AI/ML projects to improve problem-solving skills
+
+- Strengthening DSA, core AI/ML concepts, and competitive programming
+
+## Skills & Interests
+
+- Machine Learning & Deep Learning 
+
+- AI Model Development & Optimization
+
+- Data Structures & Algorithms (DSA)
+
+- Python, SQL
 
 
-![Snake animation](https://github.com/darshita27-cmd/darshita27-cmd/blob/output/github-contribution-grid-snake.svg)
-<!--
-**darshita27-cmd/darshita27-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Learning & Goals
 
-Here are some ideas to get you started:
+- Implementing advanced RL algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Gaining expertise in AI for real-world applications
+
+- Strengthening coding interview skills for tech roles
+
+
+## Fun Fact
+
+I enjoy deep focus work, especially with indirect sunlight & a peaceful environment.
+
+Thanks for stopping by! Feel free to explore my repositories and connect!
+
