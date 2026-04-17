@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a 3rd-year AIML student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring Reinforcement Learning, Neural Networks, and AI-driven solutions.
+I'm a 4th-year AIML student passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy exploring Reinforcement Learning, Neural Networks, and AI-driven solutions.
 
 ## What I'm Working On
 
